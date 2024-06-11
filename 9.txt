@@ -1,0 +1,8 @@
+
+product name: software
+product id: 9
+cost price of product: 50
+selling price of product: 51
+quantity: 3
+ total cost: 150
+sell: 153

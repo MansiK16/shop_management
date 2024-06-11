@@ -1,0 +1,5 @@
+
+number of working employees: 5
+employee salary: 4000
+employee name :kiran
+employee id: 6
